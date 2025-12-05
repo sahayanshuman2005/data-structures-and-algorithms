@@ -2,4 +2,4 @@
 
 <p align="center"><img src="https://socialify.git.ci/sahayanshuman2005/data-structures-and-algorithms/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">My personal DSA learning repository containing concepts implementations and solved problems.</p>
+<p id="description">My comprehensive Data Structures and Algorithms learning repository - This repository serves as my personal journey through mastering fundamental and advanced computer science concepts. It contains meticulously organized study materials detailed implementations of various data structures and algorithms in multiple programming languages and a curated collection of solved problems from competitive programming platforms coding interview challenges and textbook exercises. Each section includes theoretical explanations visual representations time/space complexity analyses real-world applications and progressive difficulty levels to track my learning progression from basic concepts to advanced algorithmic problem-solving techniques.</p>
