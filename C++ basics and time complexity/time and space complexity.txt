@@ -1,0 +1,35 @@
+//time complexity: 
+rate at which time taken increases with respect to input size
+
+O() = O(total no. of steps in a code)
+
+//tc calculation
+-tc to be computed in terms of worst case scenario
+-avoid constants
+-avoid lower values
+
+//Processes and their time complexities
+-function call: O(1)
+-for loop i= 0 to 10: O(1)
+-single loop i = 0 to n: O(n)
+-two nested loops from 0 to n: O(n^2)
+-loop where i doubles each time: O(log n)
+-recursive fn that splits input in half: O(nlogn)
+-two separate non nested loops from 0 to n : O(n)
+- k nested loops:O(n^k)
+- recursive fn that make 2 recursive call for a problem of size n-1: O(2^n)
+- generating all permutations of a set: O(n!)
+
+// Space complexity
+-auxiliary space -> space taken to solve a problem
+-input space-> space taken to store input
+
+-never do anything to input
+
+//competitive programming
+code ->server
+1s = 10 to power 8 operations
+2s = 2 * 10 to power 8 operations
+5s = 5 * 10 to power 8 operations
+
+time limit = 1s = O(10 to the power 8)
